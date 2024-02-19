@@ -1,0 +1,27 @@
+h1.titulos{
+    text-align: center;
+    font-family: "cursive";
+    color: blue;
+    font-size: 180%;
+}
+table.tabla1{
+    text-align: center;
+    background-color: rgb(228, 214, 214);
+    margin-top: 30px;
+    border: #ec0a0a 1px solid;
+    font-size: 130%;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: #ec0a0a;
+    font-size: 120%;
+}
+h4.h4uni{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+    font-size: 100%;
+}
+p{
+    font-family: "cursive";
+    font-size: 90%;
+}
